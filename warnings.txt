@@ -1,0 +1,6 @@
+Index out of bounds: line does not contain enough data
+Index out of bounds: line contains too much data
+NumberFormatException: year data contains invalid characte(s)
+NumberFormatException: rating data contains invalid charactr(s)
+Data out of bounds: year date is invalid
+Rating out of bounds: Rating is out of scale
